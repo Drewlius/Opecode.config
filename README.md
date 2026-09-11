@@ -1,2 +1,2 @@
-# -HOME-.config-opencode-skills-
-My collection of opencode skills and their corresponding tools.
+# $HOME/.config/opencode/skills/
+My collection of opencode skills and their corresponding tools. Feel free to take and use any, or all of the uploaded skills and their corresponding tools. If any of them were beneficial to you and worked properly, drop this repo a ★ have fun and happy coding!
