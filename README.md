@@ -1,2 +1,2 @@
-# $HOME/.config/opencode/skills/ <div align=right>[![wakatime](https://wakatime.com/badge/github/Drewlius/-HOME-.config-opencode-skills-.svg)](https://wakatime.com/badge/github/Drewlius/-HOME-.config-opencode-skills-) <div>
+# $HOME/.config/opencode/ <div align=right>[![wakatime](https://wakatime.com/badge/github/Drewlius/-HOME-.config-opencode-skills-.svg)](https://wakatime.com/badge/github/Drewlius/-HOME-.config-opencode-skills-) <div>
 My collection of opencode skills and their corresponding tools. Feel free to take and use any, or all of the uploaded skills and their corresponding tools. If any of them were beneficial to you and worked properly, drop this repo a ★ have fun and happy coding!
