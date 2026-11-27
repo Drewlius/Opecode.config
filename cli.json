@@ -1,0 +1,90 @@
+{
+  "$schema": "https://opencode.ai/v2/cli.json",
+  "theme": {
+    "name": "system",
+    "mode": "dark"
+  },
+  "diffs": {
+    "wrap": "none",
+    "view": "auto",
+    "single": true,
+    "tree": true
+  },
+  "terminal": {
+    "title": true,
+    "copy": "select"
+  },
+  "mouse": true,
+  "prompt": {
+    "editor": true,
+    "paste": "compact",
+    "image_preview": true
+  },
+  "session": {
+    "sidebar": "auto",
+    "scrollbar": true,
+    "thinking": "hide",
+    "markdown": "rendered",
+    "grouping": "auto",
+    "image_preview": true,
+    "tps": true,
+    "permissions": "autoaccept",
+    "new_location": "launch",
+    "verbosity": "high",
+    "submit_scroll": "bottom"
+  },
+  "animations": true,
+  "scroll": {
+    "acceleration": true,
+    "speed": 10
+  },
+  "tabs": {
+    "enabled": true,
+    "scope": "global",
+    "layout": "horizontal",
+    "indicators": "numbers",
+    "mode": "auto"
+  },
+  "attention": {
+    "notifications": true,
+    "sound": true,
+    "volume": 1
+  },
+  "debug": {
+    "devtools": false,
+    "turn_tokens": "verbose",
+    "timing": false
+  },
+  "highlights": true,
+  "experimental": {
+    "new-designs": true,
+    "client-mcp": true
+  },
+  "keybinds": {
+    "leader": "ctrl+x",
+    "app.exit": [
+      "ctrl+c",
+      "ctrl+d",
+      "<leader>q"
+    ],
+    "prompt.paste": {
+      "key": "ctrl+v",
+      "event": "press",
+      "preventDefault": false,
+      "fallthrough": false
+    }
+  },
+  "leader": {
+    "timeout": 2000
+  },
+  "mini": {
+    "shell_output": "show",
+    "turn_summary": "show",
+    "thinking": "show",
+    "tools": "show",
+    "footer": "show",
+    "splash": "hide",
+    "mono": false,
+    "work_spinner": "density-wave"
+  }
+}
